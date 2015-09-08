@@ -1,5 +1,5 @@
 //
-// Toolkit for the Go programming language
+// Superior - Toolkit for the Go programming language
 // Available at http://github.com/liamka/Printm
 //
 // Copyright © Kirill Kotikov <liamka@me.com>.
