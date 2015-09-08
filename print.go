@@ -3,7 +3,7 @@
 // Available at http://github.com/liamka/Printm
 //
 // Copyright © Kirill Kotikov <liamka@me.com>.
-// Distributed under the Simplified BSD License.
+// Superior is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
 // See README.md for details.
 //
 
