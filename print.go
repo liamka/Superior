@@ -64,8 +64,6 @@ func Print(str string, t string, c string) {
 		c = "white"
 	}
 
-	help()
-
 	checkType(t,"type")
 	checkType(c,"color")
 
