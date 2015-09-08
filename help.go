@@ -1,5 +1,5 @@
 //
-// Colorful output in command line
+// Toolkit for the Go programming language
 // Available at http://github.com/liamka/Printm
 //
 // Copyright © Kirill Kotikov <liamka@me.com>.

@@ -1,3 +1,12 @@
+//
+// Toolkit for the Go programming language
+// Available at http://github.com/liamka/Printm
+//
+// Copyright © Kirill Kotikov <liamka@me.com>.
+// Distributed under the Simplified BSD License.
+// See README.md for details.
+//
+
 package Superior
 
 import (
