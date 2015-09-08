@@ -21,6 +21,9 @@ Keywords: Golang, go, Toolkit, Command line, Color
 #### - Colorful print
 
 	Superior.Print("HELLO", "background", "green")
+	
+##### Cheat sheet:
+<img src="https://storage.jumpshare.com/preview/AozJBY-cY3ETg4i1xdr1ZWciwtbPV9kQnXJs-U7C8sUUgotp96q5eHYLKOAVxRskj_ZTl5-rK281hLIJNIGwz90Iq-_ZMIwlJNqsu6s4bO0F1kR3dMUjedqC16uBUu85 alt="Cheat sheet" />
 
 ### License
 
