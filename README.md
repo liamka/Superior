@@ -18,8 +18,9 @@ Keywords: Golang, go, Toolkit, Command line, Color
 
 ### Use
 
-#### Colorful print
+#### - Colorful print
 
+	Superior.Print("HELLO", "background", "green")
 
 ### License
 
