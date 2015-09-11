@@ -37,7 +37,7 @@ func checkType(a string, b string) {
 	}
 
 	if !stringInSlice(a, strList) {
-		fmt.Println(mess)
+		fmt.Fprintln(os.Stderr, mess)
 		os.Exit(1)
 	}
 

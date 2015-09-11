@@ -11,6 +11,7 @@ package Superior
 
 import (
 	"fmt"
+	"github.com/mattn/go-colorable"
 )
 
 const (
@@ -51,6 +52,10 @@ const (
 	bakwht = "47m" // White
 
 	txtrst = "0m" // Reset
+)
+
+var (
+	out = colorable.NewColorableStdout()
 )
 
 func Print(str string, t string, c string) {
@@ -145,5 +150,5 @@ func Print(str string, t string, c string) {
 		}
 	}
 	x = x + "%s\x1b[" + txtrst + "\n"
-	fmt.Printf(x, str) // return
+	fmt.Fprintf(out, x, str) // return
 }
