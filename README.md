@@ -1,6 +1,6 @@
 Keywords: Golang, go, Toolkit, Command line, Color
 
-<img src="https://liamka.me/uploads/highres_181823992.jpeg" alt="Golang logo" align="right" width="300" />
+<img src="https://liamka.me/uploads/superior.jpeg" alt="Golang logo" align="right" width="300" />
 
 ### Superior - Toolkit for the Go programming language
 
