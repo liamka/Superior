@@ -23,7 +23,7 @@ Keywords: Golang, go, Toolkit, Command line, Color
 	Superior.Print("HELLO", "background", "green")
 	
 ##### Cheat sheet:
-<img src="http://dnblive.tv/cheatsheet.png" alt="Cheat sheet" />
+<img src="https://liamka.me/uploads/superior_cheatsheet.png" alt="Cheat sheet" />
 
 ### License
 
